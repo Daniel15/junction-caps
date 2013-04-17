@@ -1,0 +1,35 @@
+{
+	"name": "junction-caps",
+	"version": "0.0.1",
+	"description": "Entity Capabilities (XEP-0115) middleware for Junction XMPP library.",
+	"keywords": [
+		"junction",
+		"xmpp",
+		"jabber",
+		"xep0115",
+		"capabilities",
+		"caps"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Daniel15/junction-caps.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Daniel15/junction-caps/issues"
+	},
+	"author": {
+		"name": "Daniel Lo Nigro",
+		"email": "daniel@dan.cx",
+		"url": "http://dan.cx/"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		}
+	],
+	"main": "./lib",
+	"engines": {
+		"node": ">= 0.4.0"
+	}
+}
