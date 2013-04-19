@@ -10,6 +10,14 @@ chats, avatars, etc.). This middleware also supports Entity Capability extension
 Installation
 ------------
 
+To get the stable release:
+
+```
+npm install junction-caps
+```
+
+To get the latest development version:
+
 ```
 npm install git://github.com/Daniel15/junction-caps.git
 ```
