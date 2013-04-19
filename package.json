@@ -1,6 +1,6 @@
 {
 	"name": "junction-caps",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Entity Capabilities (XEP-0115) middleware for Junction XMPP library.",
 	"keywords": [
 		"junction",
