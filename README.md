@@ -1,10 +1,11 @@
 junction-caps
 =============
 
-[Entity Capabilities](http://xmpp.org/extensions/xep-0115.html) middleware middleware built on 
+[Entity Capabilities](http://xmpp.org/extensions/xep-0115.html) middleware built on 
 [Junction](http://github.com/jaredhanson/junction) and [Node](http://nodejs.org). This lets you see 
 which additional features the user's XMPP client supports (such as audio/video chat, multi user 
-chats, avatars, etc.).
+chats, avatars, etc.). This middleware also supports Entity Capability extensions as specified in the 
+[legacy specification](http://xmpp.org/extensions/xep-0115.html#legacy).
 
 Installation
 ------------
