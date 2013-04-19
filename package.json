@@ -29,6 +29,9 @@
 		}
 	],
 	"main": "./lib",
+	"dependencies": {
+		"debug": "0.7.x"	
+	},
 	"engines": {
 		"node": ">= 0.4.0"
 	}
