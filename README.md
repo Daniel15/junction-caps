@@ -1,6 +1,8 @@
 junction-caps
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Daniel15/junction-caps.svg)](https://greenkeeper.io/)
+
 [Entity Capabilities](http://xmpp.org/extensions/xep-0115.html) middleware built on 
 [Junction](http://github.com/jaredhanson/junction) and [Node](http://nodejs.org). This lets you see 
 which additional features the user's XMPP client supports (such as audio/video chat, multi user 
